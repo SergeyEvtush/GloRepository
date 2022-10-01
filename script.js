@@ -1,9 +1,9 @@
 
 const title = '';
-const screen = '';
+const screens = '';
 const screenPrice = 0;
-const rollbac = true;
-const fullPric = 0;
-const adaptiv = true;
+const rollback = true;
+const fullPrice = 0;
+const adaptive = true;
 alert('hello teacher');
 console.log('some text');
